@@ -1,5 +1,6 @@
-# Curso de HTML: maquetación semántica de una página en HTML 5
--HTML 5 
--CSS3 
--JavaScript.
-![Alt text](http://full/path/to/img.jpg "Optional title")
+# Line up Form Elements Responsively with Bootstrap 
+- HTML.
+- CSS.
+- Bootstrap.
+- 
+![Alt text](https://github.com/walejandromt/Responsively-with-Bootstrap/blob/master/img.png "Optional title")
